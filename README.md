@@ -1,5 +1,5 @@
 **Automatic Text Generator**
-**Introduction**
+**Introduction**  
 This little project shows you exactly that — in plain Python, sometimes no fancy libraries are needed. You paste in some text, it learns which words follow which, and then generates something new. Feed it a song, a story, or a Wikipedia paragraph and wathc it remix your words.
 **Features**
 Learns word patterns from any text you provide
